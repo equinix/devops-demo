@@ -1,0 +1,15 @@
+#GET the base default nginx image from docker hub
+FROM nginx
+
+#Delete the Existing default.conf
+RUN rm /etc/nginx/conf.d/default.conf 
+ 
+#Copy the custom default.conf to the nginx configuration
+COPY default.conf /etc/nginx/conf.d
+
+#Copy Static site files to Nginx doc Root
+COPY sites /usr/share/nginx/html/
+
+#docker build --rm -f "dockerfile" -t first-ng_tag .
+
+#docker run --name first-ng_tag  -p 80:80 -p 443:443 first-ng_tag
