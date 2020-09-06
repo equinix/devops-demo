@@ -33,3 +33,8 @@ Check the Existing JDK version
 ###  How to Install Docker on macOS  
   * Download Docker for mac from (https://hub.docker.com/editions/community/docker-ce-desktop-mac/)
   * double click the .dmg file and follow the instruction
+
+## Demo Time
+
+* [NGINX Demo](nginx_demo/)
+* [JENKINS Demo](nginx_demo/)
