@@ -10,6 +10,6 @@ COPY default.conf /etc/nginx/conf.d
 #Copy Static site files to Nginx doc Root
 COPY sites /usr/share/nginx/html/
 
-#docker build --rm -f "dockerfile" -t first-ng_tag .
+#docker build --rm -f "dockerfile" -t nginx_web_server .
 
-#docker run --name first-ng_tag  -p 80:80 -p 443:443 first-ng_tag
+#docker run --name nginx_web_server  -p 80:80 -p 443:443 nginx_web_server

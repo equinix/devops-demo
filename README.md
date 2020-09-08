@@ -1,7 +1,17 @@
 # Introduction to Dev ops
 ## Installation
 
-This Tutorial use MAC book to install required tools.
+### Pre-Requests
+* [Install GIT on Windows](https://git-scm.com/download/win)
+
+* [Install GIT on MAC](https://git-scm.com/download/mac)
+
+* [Create GitHub Account](https://github.com/)
+
+* [Create DockerHub Account](https://hub.docker.com/signup)
+
+
+This Tutorial uses MAC book to install the required tools.
 
 ### How to Install JDK on macOS
 There are multiple ways to install JDK on MAC 
@@ -33,3 +43,8 @@ Check the Existing JDK version
 ###  How to Install Docker on macOS  
   * Download Docker for mac from (https://hub.docker.com/editions/community/docker-ce-desktop-mac/)
   * double click the .dmg file and follow the instruction
+
+## Demo Time
+
+* [NGINX Demo](nginx_demo/)
+* [JENKINS Demo](nginx_demo/)
