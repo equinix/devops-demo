@@ -1,14 +1,14 @@
 # Introduction to Dev ops
 ## Installation
 
-### Install GIT Client
+### Pre-Requests
 * [Install GIT on Windows](https://git-scm.com/download/win)
 
 * [Install GIT on MAC](https://git-scm.com/download/mac)
 
-### Create GitHub Account
+* [Create GitHub Account](https://github.com/)
 
-### Create DockerHub Account
+* [Create DockerHub Account](https://hub.docker.com/signup)
 
 
 This Tutorial uses MAC book to install the required tools.
