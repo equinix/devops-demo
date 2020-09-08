@@ -1,7 +1,16 @@
 # Introduction to Dev ops
 ## Installation
 
-This Tutorial use MAC book to install required tools.
+### Install GIT Client
+[Install GIT on Windows](https://git-scm.com/download/win)
+[Install GIT on MAC](https://git-scm.com/download/mac)
+
+### Create GitHub Account
+
+### Create DockerHub Account
+
+
+This Tutorial uses MAC book to install the required tools.
 
 ### How to Install JDK on macOS
 There are multiple ways to install JDK on MAC 
