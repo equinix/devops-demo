@@ -2,8 +2,9 @@
 ## Installation
 
 ### Install GIT Client
-[Install GIT on Windows](https://git-scm.com/download/win)
-[Install GIT on MAC](https://git-scm.com/download/mac)
+* [Install GIT on Windows](https://git-scm.com/download/win)
+
+* [Install GIT on MAC](https://git-scm.com/download/mac)
 
 ### Create GitHub Account
 
