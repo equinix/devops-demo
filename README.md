@@ -3,6 +3,20 @@
 
 This Tutorial use MAC book to install required tools.
 
+### How to Install JDK on Windows
+
+1.	Install Java on Windows machine if not installed.
+https://www.java.com/en/download/win10.jsp
+
+download the latest version JDK and double click the EXE file 
+
+you will see the Wizard as  below 
+
+![JDK Install Picture 1](images/Picture1.png)
+
+
+![JDK Install Picture 2](images/Picture2.png)
+
 ### How to Install JDK on macOS
 There are multiple ways to install JDK on MAC 
 
@@ -33,6 +47,29 @@ Check the Existing JDK version
 ###  How to Install Docker on macOS  
   * Download Docker for mac from (https://hub.docker.com/editions/community/docker-ce-desktop-mac/)
   * double click the .dmg file and follow the instruction
+
+### How to Install Docker on Windows
+
+* Follow instruction on this Document: [ Install_Docker_CE_Desktop_windows.docx](Install_Docker_CE_Desktop_windows.docx)
+
+### How to Install [ngrok](https://ngrok.com/download)
+
+Enabling Jenkins Port forwarding via ngrok, ngrok is required to enable Webhook on your Local mechine.
+
+* Mac Users [Download](https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-darwin-amd64.zip)
+
+* Windows Users [Download](https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip)
+
+Download the above zip file and run as below, the Port should be the same Jenkins 
+
+```
+win:/> ngrok.exe http 8080   
+
+mac:$ ./ngrok http 8080   
+
+```
+
+![After Running the Executable file](images/ngrok.png)
 
 ## Demo Time
 
