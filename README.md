@@ -86,3 +86,8 @@ mac:$ ./ngrok http 8080
 
 * [NGINX Demo](nginx_demo/)
 * [JENKINS Demo](nginx_demo/)
+
+## Useful Tips
+
+* [Useful Docker commands](DOCKER-HINTS.md) 
+
