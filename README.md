@@ -10,12 +10,12 @@
 
 * [Create DockerHub Account](https://hub.docker.com/signup)
 
-* [Install Java SDK on Windows](#How_to_Install_JDK_on_Windows)
-* [Install Java SDK on MAC](#How_to_Install_JDK_on_macOS)
-* [Install Java SDK on MAC](#How_to_Install_JDK_on_macOS)
-* [How to Install Docker on Windows](#How_to_Install_Docker_on_Windows)
-* [How to Install Docker on macOS](#How_to_Install_Docker_on_macOS)
-# [How to Install ngrok](#How_to_Install_ngrok)
+* [Install Java SDK on Windows](#How-to-Install-JDK-on-Windows)
+* [Install Java SDK on MAC](#How-to-Install-JDK-on-macOS)
+
+* [How to Install Docker on Windows](#How-to-Install-Docker-on-Windows)
+* [How to Install Docker on macOS](#How-to-Install-Docker-on-macOS)
+* [How to Install ngrok](#How-to-Install-ngrok-1)
 
 
 This Tutorial uses MAC book to install the required tools.
