@@ -15,7 +15,7 @@
 
 * [How to Install Docker on Windows](#How-to-Install-Docker-on-Windows)
 * [How to Install Docker on macOS](#How-to-Install-Docker-on-macOS)
-* [How to Install ngrok](#How-to-Install-ngrok-1)
+* [How to Install ngrok](#How-to-Install-ngrok)
 
 
 This Tutorial uses MAC book to install the required tools.
