@@ -7,12 +7,6 @@
  `https://github.com/equinix/devops-demo.git`
 
  ```
- # to Stop the Existing running Container
-docker stop nginx_web_server 
-
-# to Remove and clean the Existing Image
-docker rmi -f nginx_web_server
-
 echo "Build Started"
 
 # to Stop the Existing running Container

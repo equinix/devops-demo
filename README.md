@@ -10,6 +10,12 @@
 
 * [Create DockerHub Account](https://hub.docker.com/signup)
 
+* [Install Java SDK on Windows](#How-to-Install-JDK-on-Windows)
+* [Install Java SDK on MAC](#How-to-Install-JDK-on-macOS)
+
+* [How to Install Docker on Windows](#How-to-Install-Docker-on-Windows)
+* [How to Install Docker on macOS](#How-to-Install-Docker-on-macOS)
+* [How to Install ngrok](#How-to-Install-ngrok)
 
 
 This Tutorial uses MAC book to install the required tools.
@@ -54,14 +60,14 @@ Check the Existing JDK version
 
   echo 'export PATH=$JAVA_HOME/bin:$PATH' >> ~/.bash_profile
   ```
-  
-###  How to Install Docker on macOS  
-  * Download Docker for mac from (https://hub.docker.com/editions/community/docker-ce-desktop-mac/)
-  * double click the .dmg file and follow the instruction
 
 ### How to Install Docker on Windows
 
 * Follow instruction on this Document: [ Install_Docker_CE_Desktop_windows.docx](Install_Docker_CE_Desktop_windows.docx)
+
+###  How to Install Docker on macOS  
+  * Download Docker for mac from (https://hub.docker.com/editions/community/docker-ce-desktop-mac/)
+  * double click the .dmg file and follow the instruction
 
 ### How to Install [ngrok](https://ngrok.com/download)
 
@@ -85,7 +91,7 @@ mac:$ ./ngrok http 8080
 ## Demo Time
 
 * [NGINX Demo](nginx_demo/)
-* [JENKINS Demo](nginx_demo/)
+* [JENKINS Demo](jenkins_demo/)
 
 ## Useful Tips
 
