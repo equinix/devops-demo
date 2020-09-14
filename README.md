@@ -91,7 +91,7 @@ mac:$ ./ngrok http 8080
 ## Demo Time
 
 * [NGINX Demo](nginx_demo/)
-* [JENKINS Demo](nginx_demo/)
+* [JENKINS Demo](jenkins_demo/)
 
 ## Useful Tips
 
