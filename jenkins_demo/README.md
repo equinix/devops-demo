@@ -6,16 +6,15 @@
  ### demo Project we use for this Demo
  `https://github.com/equinix/devops-demo.git`
 
+
  ```
 echo "Build Started"
 
-docker stop nginx_web_server 
+REM docker stop nginx_web_server 
 
-docker rmi -f nginx_web_server
+REM docker rm -f nginx_web_server
 
-pwd
-
-ls -al 
+REM docker rmi -f nginx_web_server
 
 cd nginx_demo
 
